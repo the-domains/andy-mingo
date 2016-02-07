@@ -1,0 +1,28 @@
+name: Andy Mingo
+favicon: null
+layout_spectrum: 0.4747651577927172
+typography_spectrum: 0.353730226168409
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8269334617070854
+  lightness: 0.39966739690862596
+  saturation: 0.18490931065753102
+  rhythmicContrast: 0.8988831501919776
+purpose: []
